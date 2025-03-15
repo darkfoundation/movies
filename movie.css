@@ -1,0 +1,3 @@
+.filterHere {border-radius: 5px; background:rgb(211, 211, 211); padding: 5px; margin: 3px 2px; display: inline-block; white-space: nowrap; cursor: move; user-select: none;}
+.landingZone {border-radius: 5px; background:rgb(145, 238, 142); padding: 5px; margin: 3px 2px; display: inline-block; white-space: nowrap; cursor: move; user-select: none;}
+.invisible {display: none!important;}
